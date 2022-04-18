@@ -7,9 +7,9 @@ public class OperatorTest05 {
 		int num1 = 10;
 		int num2 = 10;
 		
-		boolean result1 = (num1 == num2);
-		boolean result2 = (num1 != num2);
-		boolean result3 = (num1 <= num2);
+		boolean result1 = (num1 == num2); // true
+		boolean result2 = (num1 != num2); // false
+		boolean result3 = (num1 <= num2); // true
 		
 		System.out.println(result1);
 		System.out.println(result2);
