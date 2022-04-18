@@ -4,7 +4,7 @@ public class OeratorTest02 {
 		// 증감연산자 ++ --
 		int x = 10;
 		int y = 10;
-		int z; 
+		int z;
 		
 		System.out.println("----------------");
 		x++;
